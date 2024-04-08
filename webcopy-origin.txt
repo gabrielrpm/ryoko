@@ -1,0 +1,204 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\ryokorouter.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\ryokorouter.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://ryokorouter.com/build/assets/alpine-e5d11dce.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\alpine-e5d11dce.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/bootstrap-3cf17746.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\bootstrap-3cf17746.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/choices-645c20a9.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\choices-645c20a9.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/debounce-fc5e13f6.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\debounce-fc5e13f6.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/googleAnalytics-a706a301.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\googleAnalytics-a706a301.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/index-28409614.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\index-28409614.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/intersection-observer-98a12a64.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\intersection-observer-98a12a64.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/jquery-986d8230.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\jquery-986d8230.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/lazyload-b0def8a2.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\lazyload-b0def8a2.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/legacy-41783ffe.css
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\legacy-41783ffe.css
+Content Type: text/css
+
+Uri: https://ryokorouter.com/build/assets/livewire.esm-8ece4cbc.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\livewire.esm-8ece4cbc.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/main-b57a078e.css
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\main-b57a078e.css
+Content Type: text/css
+
+Uri: https://ryokorouter.com/build/assets/normalize-394da5b4.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\normalize-394da5b4.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/product-1744877d.css
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\product-1744877d.css
+Content Type: text/css
+
+Uri: https://ryokorouter.com/build/assets/product-value-encoder-3df2ce17.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\product-value-encoder-3df2ce17.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/product-value-parser-194d4b2d.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\product-value-parser-194d4b2d.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/sentry-release-injection-file-0c590eb3.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\sentry-release-injection-file-0c590eb3.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/text-wrapper-00815773.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\text-wrapper-00815773.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/theme-ab9e03f2.css
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\theme-ab9e03f2.css
+Content Type: text/css
+
+Uri: https://ryokorouter.com/build/assets/theme-efa21042.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\theme-efa21042.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/track-visited-pages-2805ca95.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\track-visited-pages-2805ca95.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/tracktor-7c4b1bcc.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\tracktor-7c4b1bcc.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/upsell-estimated-taxes-c9cae926.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\upsell-estimated-taxes-c9cae926.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/whoops-b75ff1d1.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\whoops-b75ff1d1.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/build/assets/will-be-removed-e113a1ba.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\build\assets\will-be-removed-e113a1ba.js
+Content Type: application/javascript
+
+Uri: https://ryokorouter.com/ryoko-pro/product?l=en&vndr=evf&evf=1&uid=5961&offid=61&affiliate_id=10&ttclid=&subid=20827&subid2=41994&subid3=7304&subid4=www.djpcraze.com&subid5=a5012734bd7747daa6ecfec18b2f610c&network_id=69
+File Name: C:\Downloaded Web Sites\ryokorouter.com\ryoko-pro\product.html
+Content Type: text/html
+
+Uri: https://ryokorouter.com/theme/ryoko-pro/product/map-eu-mobile.svg?1
+File Name: C:\Downloaded Web Sites\ryokorouter.com\theme\ryoko-pro\product\map-eu-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://ryokorouter.com/theme/ryoko-pro/product/map-eu.svg
+File Name: C:\Downloaded Web Sites\ryokorouter.com\theme\ryoko-pro\product\map-eu.svg
+Content Type: image/svg+xml
+
+Uri: https://ryokorouter.com/theme/ryoko/favicon_.png
+File Name: C:\Downloaded Web Sites\ryokorouter.com\theme\ryoko\favicon_.png
+Content Type: image/png
+
+Uri: https://www.dsw0trk.com/scripts/sdk/everflow.js
+File Name: C:\Downloaded Web Sites\ryokorouter.com\scripts\sdk\everflow.js
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=903090581609834&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\ryokorouter.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-136786017-1&l=gaLayer
+File Name: C:\Downloaded Web Sites\ryokorouter.com\gtag\js
+Content Type: application/javascript
+
